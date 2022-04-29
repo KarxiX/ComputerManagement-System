@@ -13,7 +13,7 @@ namespace ComputerDB001
         /// <summary>
         ///连接字符串 
         /// </summary>
-        private static string constr = @"server=.;database=ComputerDB001;user=sa;pwd=114514";
+        private static string constr = @"server=.;database=ComputerDB001;Integrated Security=True";
 
         /// <summary>
         /// 查询单个值
